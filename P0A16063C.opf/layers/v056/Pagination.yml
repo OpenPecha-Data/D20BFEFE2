@@ -1,0 +1,96 @@
+id: 78ac907443014c6593d7ab6ea9ef2180
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  327dc117d0aa4746aa328bbc2d1442cb:
+    imgnum: 1663
+    reference: ''
+    span:
+      start: 0
+      end: 648
+  cd669dceb333472ba7733fe29ee9d52a:
+    imgnum: 1664
+    reference: ''
+    span:
+      start: 651
+      end: 1972
+  80097f0831324e88ab261136bd395cf3:
+    imgnum: 1665
+    reference: ''
+    span:
+      start: 1975
+      end: 3259
+  e05e3b1987b5423cad0b32d5973ef8f6:
+    imgnum: 1666
+    reference: ''
+    span:
+      start: 3262
+      end: 4594
+  e1d408d2b25e478db644d037175a6b57:
+    imgnum: 1667
+    reference: ''
+    span:
+      start: 4597
+      end: 5973
+  fd4b7b42163b4d6d8aa9b42b16f845cd:
+    imgnum: 1668
+    reference: ''
+    span:
+      start: 5976
+      end: 7299
+  b459ba7acc4643e684da79d7ae0cb80e:
+    imgnum: 1669
+    reference: ''
+    span:
+      start: 7302
+      end: 8605
+  e0d8cdf798b54e3aa56c8d3d7e41120b:
+    imgnum: 1670
+    reference: ''
+    span:
+      start: 8608
+      end: 9864
+  47a615e8103e4dea9f1924695d741fee:
+    imgnum: 1671
+    reference: ''
+    span:
+      start: 9867
+      end: 11179
+  c0efe4c771614e02876489ae8365ab90:
+    imgnum: 1672
+    reference: ''
+    span:
+      start: 11182
+      end: 12552
+  7cf9270a91494da09ca8e230168d113d:
+    imgnum: 1673
+    reference: ''
+    span:
+      start: 12555
+      end: 13857
+  a98cdd90a8ef4e73b6c66710ca58afae:
+    imgnum: 1674
+    reference: ''
+    span:
+      start: 13860
+      end: 15051
+  9e4062dc17a64afa91f8768a1169ffda:
+    imgnum: 1675
+    reference: ''
+    span:
+      start: 15054
+      end: 16025
+local_ids:
+  327dc117d0aa4746aa328bbc2d1442cb: 200000
+  cd669dceb333472ba7733fe29ee9d52a: 200001
+  80097f0831324e88ab261136bd395cf3: 200002
+  e05e3b1987b5423cad0b32d5973ef8f6: 200003
+  e1d408d2b25e478db644d037175a6b57: 200004
+  fd4b7b42163b4d6d8aa9b42b16f845cd: 200005
+  b459ba7acc4643e684da79d7ae0cb80e: 200006
+  e0d8cdf798b54e3aa56c8d3d7e41120b: 200007
+  47a615e8103e4dea9f1924695d741fee: 200008
+  c0efe4c771614e02876489ae8365ab90: 200009
+  7cf9270a91494da09ca8e230168d113d: 200010
+  a98cdd90a8ef4e73b6c66710ca58afae: 200011
+  9e4062dc17a64afa91f8768a1169ffda: 200012
