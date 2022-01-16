@@ -8,72 +8,84 @@ annotations:
     span:
       start: 0
       end: 648
+    note_ref: a98cdd90a8ef4e73b6c66710ca58afae
   cd669dceb333472ba7733fe29ee9d52a:
     imgnum: 1664
     reference: ''
     span:
       start: 651
       end: 1972
+    note_ref: a98cdd90a8ef4e73b6c66710ca58afae
   80097f0831324e88ab261136bd395cf3:
     imgnum: 1665
     reference: ''
     span:
       start: 1975
       end: 3259
+    note_ref: a98cdd90a8ef4e73b6c66710ca58afae
   e05e3b1987b5423cad0b32d5973ef8f6:
     imgnum: 1666
     reference: ''
     span:
       start: 3262
       end: 4594
+    note_ref: a98cdd90a8ef4e73b6c66710ca58afae
   e1d408d2b25e478db644d037175a6b57:
     imgnum: 1667
     reference: ''
     span:
       start: 4597
       end: 5973
+    note_ref: a98cdd90a8ef4e73b6c66710ca58afae
   fd4b7b42163b4d6d8aa9b42b16f845cd:
     imgnum: 1668
     reference: ''
     span:
       start: 5976
       end: 7299
+    note_ref: a98cdd90a8ef4e73b6c66710ca58afae
   b459ba7acc4643e684da79d7ae0cb80e:
     imgnum: 1669
     reference: ''
     span:
       start: 7302
       end: 8605
+    note_ref: a98cdd90a8ef4e73b6c66710ca58afae
   e0d8cdf798b54e3aa56c8d3d7e41120b:
     imgnum: 1670
     reference: ''
     span:
       start: 8608
       end: 9864
+    note_ref: 9e4062dc17a64afa91f8768a1169ffda
   47a615e8103e4dea9f1924695d741fee:
     imgnum: 1671
     reference: ''
     span:
       start: 9867
       end: 11179
+    note_ref: 9e4062dc17a64afa91f8768a1169ffda
   c0efe4c771614e02876489ae8365ab90:
     imgnum: 1672
     reference: ''
     span:
       start: 11182
       end: 12552
+    note_ref: 9e4062dc17a64afa91f8768a1169ffda
   7cf9270a91494da09ca8e230168d113d:
     imgnum: 1673
     reference: ''
     span:
       start: 12555
       end: 13857
+    note_ref: 9e4062dc17a64afa91f8768a1169ffda
   a98cdd90a8ef4e73b6c66710ca58afae:
     imgnum: 1674
     reference: ''
     span:
       start: 13860
       end: 15051
+    note_ref: 9e4062dc17a64afa91f8768a1169ffda
   9e4062dc17a64afa91f8768a1169ffda:
     imgnum: 1675
     reference: ''
