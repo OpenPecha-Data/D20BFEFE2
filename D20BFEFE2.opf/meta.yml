@@ -1,0 +1,22 @@
+id: D20BFEFE2
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:57:52+00:00'
+last_modified: '2022-05-27T05:34:48.817449+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    373f:
+      image_group_id: I1PD95901
+      title: ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ།
+      total_pages: 1682
+      order: 56
+      base_file: 373f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
